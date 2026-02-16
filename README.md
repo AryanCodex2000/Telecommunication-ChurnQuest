@@ -1,7 +1,5 @@
 # Telecommunication-ChurnQuest
 
-<!--![Churn](http://raw.githubusercontent.com/PratyushPuri/Telecommunication-ChurnQuest/refs/heads/main/ChurnQuest%20Dash.png)-->
-
 <div align="center">
 
 <img src="bank.jpg" alt="drawing" width="500"/>
